@@ -1,6 +1,6 @@
 <template>
     <div class="main-card">
-        <h1>Portafolio</h1>
+        <h1>Jon Doe</h1>
     </div>
 </template>
 
@@ -8,4 +8,5 @@
 </script>
 
 <style scoped>
+
 </style>
